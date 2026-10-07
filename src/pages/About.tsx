@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import SiteNav from "@/components/WedflowLab/SiteNav";
 
 const PHOTO_URL =
-  "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=698,fit=crop/Aq2WJBPZvwFJDqGW/johnnn-JyB2CfrpVLxcEM3t.jpg";
+  "https://res.cloudinary.com/dznfeewmc/image/upload/v1791359069/Sunlit_Tropical_Garden_Portrait_gik6bi.jpg";
 
 function useReveal() {
   useEffect(() => {
